@@ -1,0 +1,110 @@
+/* Beranda Web */
+html {
+  scroll-behavior: smooth;
+}
+
+.logo-beranda {
+  width: 50px;
+  height: 50px;
+}
+.logo-tentang {
+  width: 150px;
+  height: 150px;
+}
+.logo-tentang-rtc {
+  width: 120px;
+  height: 120px;
+}
+.navbar {
+  background-color: white;
+  position: fixed;
+  z-index: 89;
+  width: 100%;
+  box-shadow: grey 0.5px 0.5px 5px;
+}
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  color: #ffc107;
+}
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("../img/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: 0 50px;
+  padding-top: 30%;
+  padding-bottom: 10%;
+}
+
+.tentang,
+.kelas-latihan,
+.FAQ {
+  padding: 8rem 7% 1.4rem;
+  padding-bottom: 8rem;
+}
+
+/* .tentang {
+  margin-bottom: 5%;
+} */
+.kelas-latihan {
+  background-color: rgb(202, 200, 200);
+}
+.gambar-kelas-latihan {
+  width: 500px;
+  height: 450px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+.kelas-reguler-anak {
+  background-color: rgb(72, 210, 248);
+  box-shadow: rgb(101, 101, 101) 0.5px 0.5px 5px;
+  color: white;
+  padding: 15px;
+}
+.kelas-reguler-remaja {
+  background-color: rgb(72, 210, 248);
+  box-shadow: rgb(101, 101, 101) 0.5px 0.5px 5px;
+  color: white;
+  padding: 15px;
+  margin-top: 10px;
+}
+.kelas-prestasi,
+.kelas-private {
+  background-color: white;
+  box-shadow: rgb(101, 101, 101) 0.5px 0.5px 5px;
+  padding: 15px;
+  margin-top: 10px;
+}
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+.list-unstyled li a {
+  text-decoration: none;
+  color: white;
+}
+.list-unstyled li a:hover {
+  text-decoration: none;
+  color: #ffc107;
+}
+.accordion {
+  margin-top: 50px;
+}
+.accordion-item {
+  margin-top: 20px;
+}
+.accordion-button {
+  background-color: rgb(79, 157, 252);
+  color: white;
+  box-shadow: grey 0.5px 0.5px 5px;
+}
+.accordion-body {
+  box-shadow: grey 0.5px 0.5px 5px;
+}
+.copywright,
+.text-icon {
+  color: #ffc107;
+}
