@@ -96,28 +96,23 @@
                             <li>Kamis (16.00 - 17.30)</li>
                             <li>Minggu (09.30 - 11.00)</li>
                         </ul>
+                        <p>Keterangan : Bebas memilih jadwal latihan di atas (maksimal 2 kali)</p>
                     </div>
                     <div class="kelas-reguler-remaja">
                         <h4>Kelas Reguler Remaja & Dewasa</h4>
                         <h5>Jadwal Latihan</h5>
-                        <ul>
-                            <li>Rabu (18.45 - 21.00)</li>
-                            <li>Kamis (09.30 - 11.30)</li>
-                        </ul>
+                        <p>Rabu (18.45 - 21.00) dan Sabtu (09.30 - 11.30)</p>
                     </div>
                     <div class="kelas-prestasi">
                         <h4>Kelas Prestasi*</h4>
                         <h5>Jadwal Latihan</h5>
-                        <ul>
-                            <li>Rabu (18.45 - 21.00)</li>
-                            <li>Kamis (18.45 - 21.00)</li>
-                            <li>Jumat (18.45 - 21.00)</li>
-                            <li>Minggu (07.30 - 09.30)</li>
-                        </ul>
+                        <p>Rabu, Kamis, Jumat (18.45 - 21.00), dan Minggu (07.30 - 09.30)</p>
                         <p>* (Syarat & Ketentuan Berlaku)</p>
                     </div>
                     <div class="kelas-private">
                         <h4>Kelas Private</h4>
+                        <h5>Jadwal Latihan</h5>
+                        <p>Menyesuaikan jadwal sesuai dengan penjanjian</p>
                     </div>
                 </div>
                 <div class="col-md-6 gambar-kelas-latihan">
@@ -161,9 +156,8 @@
                           </h2>
                           <div id="flush-collapse_2" class="accordion-collapse collapse" aria-labelledby="flush-heading_2" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-                                Untuk total biaya sebesar <b>Rp400.000</b> (sudah termasuk biaya pendaftaran dan biaya iuran bulan pertama). 
-                                Selain itu, untuk iuran bulanan (dibayar di bulan kedua dan seterusnya) sebesar <b>Rp200.000</b>/bulan.
-                                <br>
+                            Untuk biaya pendaftarannya sebesar <b>Rp 200.000</b>. Selain itu, biaya iuran yang dibayarkan tiap bulan sesuai dengan kelas latihan yang dipilih. Untuk kelas reguler baik anak
+                            maupun remaja & dewasa, iuran per bulan yang dibayarkan sebesar <b>Rp 200.000</b>, sedangkan untuk kelas prestasi dan private, iuran per bulan yang dibayarkan sebesar <b>Rp 300.000</b>.
                                 <p class="py-2">Total biaya di atas belum termasuk seragam dobok (bisa beli di luar atau pesan kepada kami di Dojang).</p>
                             </div>
                           </div>
@@ -194,14 +188,17 @@
                           </h2>
                           <div id="flush-collapse_4" class="accordion-collapse collapse" aria-labelledby="flush-heading_4" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-                                Bagi yang yang sudah punya pengalaman Taekwondo sebelumnya, dapat bergabung dengan membawa sertifikat ujian yang sudah pernah dilewati dan bisa langsung mengikuti latihan tanpa harus memulai lagi dari 
-                                grade awal.
+                                Bagi yang yang sudah punya pengalaman Taekwondo sebelumnya, 
+                                dapat bergabung dengan membawa sertifikat ujian yang sudah 
+                                pernah dilewati dan bisa langsung mengikuti latihan 
+                                tanpa harus memulai lagi dari grade awal.
                         </div>
                           </div>
                         </div>
                         <div class="accordion-item">
                           <h2 class="accordion-header" id="flush-heading_5">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_5" aria-expanded="false" aria-controls="flush-collapse_5">
+                            <button class="accordion-button collapsed" type="button" 
+                            data-bs-toggle="collapse" data-bs-target="#flush-collapse_5" aria-expanded="false" aria-controls="flush-collapse_5">
                                 <b>Apa syarat mengikuti kelas prestasi Taekwondo?</b>
                             </button>
                           </h2>
@@ -218,13 +215,25 @@
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="flush-heading_6">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_6" aria-expanded="false" aria-controls="flush-collapse_6">
-                                  <b>Untuk doboknya apakah diperbolehkan beli sendiri?</b>
+                              <button class="accordion-button collapsed" type="button" 
+                              data-bs-toggle="collapse" data-bs-target="#flush-collapse_6" 
+                              aria-expanded="false" aria-controls="flush-collapse_6">
+                                  <b>Bagaimana Proses Pendaftaran anggota di dojang ini?</b>
                               </button>
                             </h2>
-                            <div id="flush-collapse_6" class="accordion-collapse collapse" aria-labelledby="flush-heading_6" data-bs-parent="#accordionFlushExample">
+                            <div id="flush-collapse_6" class="accordion-collapse collapse" 
+                            aria-labelledby="flush-heading_6" data-bs-parent="#accordionFlushExample">
                               <div class="accordion-body">
-                                  Untuk doboknya diperbolehkan beli sendiri atau bisa beli langsung kepada kami dengan menghubungi pengurus atau pelatih yang berada di Dojang 88
+                                  Untuk pendaftaran anggota baru ini terdapat 2 cara yaitu secara 
+                                  online atau datang langsung ke tempatnya.
+                                  Apabila ingin melakukan proses pendaftaran secara online, dapat 
+                                  mengikuti langkah - langkah sebagai berikut:
+                                  <ol>
+                                    <li>Klik tombol "Mulai Daftar"</li>
+                                    <li>Isilah data diri pada formulir pendaftaran yang tersedia</li>
+                                    <li>Membawa bukti pendaftaran ke tempat dojang langsung untuk 
+                                        konfirmasi kepada pengurus untuk melakukan proses selanjutnya</li>
+                                  </ol>
                             </div>
                         </div>
                     </div>
@@ -244,16 +253,20 @@
                     </p>
                     <ul class="list-inline">
                         <li class="list-inline-item">
-                            <a class="text-icon" href="https://www.youtube.com/rtcdojang88/" title="Youtube"><i class="fa-brands fa-youtube"></i></a>
+                            <a class="text-icon" href="https://www.youtube.com/rtcdojang88/" title="Youtube">
+                                <i class="fa-brands fa-youtube"></i></a>
                         </li>
                         <li class="list-inline-item">
-                            <a class="text-icon" href="https://www.instagram.com/rtc_dojang88" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                            <a class="text-icon" href="https://www.instagram.com/rtc_dojang88" title="Instagram">
+                                <i class="fa-brands fa-instagram"></i></a>
                         </li>
                         <li class="list-inline-item">
-                            <a class="text-icon" href="https://www.facebook.com/rtcdojang88" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a class="text-icon" href="https://www.facebook.com/rtcdojang88" title="Facebook">
+                                <i class="fa-brands fa-facebook-f"></i></a>
                         </li>
                         <li class="list-inline-item">
-                            <a class="text-icon" href="https://www.tiktok.com/@rtcdojang88" title="Tiktok"><i class="fa-brands fa-tiktok"></i></a>
+                            <a class="text-icon" href="https://www.tiktok.com/@rtcdojang88" title="Tiktok">
+                                <i class="fa-brands fa-tiktok"></i></a>
                         </li>
                     </ul>
                     <p class="copywright">&copy <script>document.write(new Date().getFullYear())</script> RTC Dojang 88</p>
@@ -283,10 +296,14 @@
                     <h4 class="text-uppercase text-heading mb-3 text-warning fw-bold">Contact Us</h4>
                     <div class="text-light">
                         <p>
-                            <a class="text-icon" href="https://api.whatsapp.com/send/?phone=6281511000747&text=Halo%21+Saya+mau+bertanya+terkait+latihan+taekwondo+di+Dojang+88&type=phone_number&app_absent=0"><i class="fa-brands fa-whatsapp"></i></a>&nbsp;&nbsp;Sbm. Hardi Firman
+                            <a class="text-icon" href="https://api.whatsapp.com/send/?phone=6281511000747&text
+                            =Halo%21+Saya+mau+bertanya+terkait+latihan+taekwondo+di+Dojang+88&type=phone_number
+                            &app_absent=0"><i class="fa-brands fa-whatsapp"></i></a>&nbsp;&nbsp;Sbm. Hardi Firman
                         </p>
                         <p>
-                            <a class="text-icon" href="https://api.whatsapp.com/send/?phone=6281286513909&text=Halo%21+Saya+mau+bertanya+terkait+latihan+taekwondo+di+Dojang+88&type=phone_number&app_absent=0"><i class="fa-brands fa-whatsapp"></i></a>&nbsp;&nbsp;Ibu Yuli
+                            <a class="text-icon" href="https://api.whatsapp.com/send/?phone=6281286513909&text=
+                            Halo%21+Saya+mau+bertanya+terkait+latihan+taekwondo+di+Dojang+88&type=phone_number&
+                            app_absent=0"><i class="fa-brands fa-whatsapp"></i></a>&nbsp;&nbsp;Ibu Yuli
                         </p>
                     </div>
                 </div>

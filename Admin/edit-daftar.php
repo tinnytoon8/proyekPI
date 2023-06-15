@@ -89,14 +89,16 @@
                             <div class="col-md-6"><br>
                                 <div class="form-group">
                                     <label>Tempat Lahir</label>
-                                    <input type="text" class="form-control tempat_lahir" name="tempat_lahir" value="<?php echo $data['tempat_lahir']; ?>">                        
+                                    <input type="text" class="form-control tempat_lahir" name="tempat_lahir" value="<?php echo 
+                                    $data['tempat_lahir']; ?>">                        
                                 </div>
                             </div>
                             <!-- Input Tanggal Lahir Anggota -->
                             <div class="col-md-6"><br>
                                 <div class="form-group">
                                     <label>Tanggal lahir</label>
-                                    <input type="date" class="form-control tanggal_lahir" name="tanggal_lahir" value="<?php echo $data['tanggal_lahir']; ?>">            
+                                    <input type="date" class="form-control tanggal_lahir" name="tanggal_lahir" value="<?php 
+                                    echo $data['tanggal_lahir']; ?>">            
                                 </div>
                             </div>
                         </div>
@@ -155,8 +157,10 @@
                         <label>Kelas Latihan yang ingin diikuti</label>
                         <select class="form-select pil_kelas" name="pil_kelas" value="<?php echo $data['pil_kelas']; ?>">
                             <option value="">--- Pilih Kelas Latihan yang ingin diikuti ---</option>
-                            <option value="reguler">Reguler</option>
-                            <option value="remaja & dewasa">Remaja & Dewasa</option>
+                            <option value="reguler anak (selasa & kamis)">Reguler Anak (Selasa & Kamis)</option>
+                            <option value="reguler anak (selasa & minggu)">Reguler Anak (Selasa & Minggu)</option>
+                            <option value="reguler anak (kamis & minggu)">Reguler Anak (Kamis & Minggu)</option>
+                            <option value="reguler remaja & dewasa">Reguler Remaja & Dewasa</option>
                             <option value="prestasi">Prestasi</option>
                             <option value="private">Private</option>
                         </select>          

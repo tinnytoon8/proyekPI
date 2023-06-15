@@ -145,8 +145,10 @@
                 <label>Kelas Latihan yang ingin diikuti</label>
                 <select class="form-select pil_kelas" name="pil_kelas" required>
                     <option value="">--- Pilih Kelas Latihan yang ingin diikuti ---</option>
-                    <option value="reguler">Reguler</option>
-                    <option value="remaja & dewasa">Remaja & Dewasa</option>
+                    <option value="reguler anak (selasa & kamis)">Reguler Anak (Selasa & Kamis)</option>
+                    <option value="reguler anak (selasa & minggu)">Reguler Anak (Selasa & Minggu)</option>
+                    <option value="reguler anak (kamis & minggu)">Reguler Anak (Kamis & Minggu)</option>
+                    <option value="reguler remaja & dewasa">Reguler Remaja & Dewasa</option>
                     <option value="prestasi">Prestasi</option>
                     <option value="private">Private</option>
                 </select>          
